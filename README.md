@@ -1,7 +1,7 @@
 # Lab 12: Testing & Debugging in Flutter
 
 ## Author
-Abdusamad Nigmatov (220063)
+Asqarjon Anvarov (220050)
 
 ## Project Structure
 ```
